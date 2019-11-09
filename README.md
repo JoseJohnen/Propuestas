@@ -1,6 +1,11 @@
 # Propuestas
 Compilado de Propuestas organizacionales para el posible Gremio de Programadores de Chile
 
+Evidentemente hay que analisar con detalle la viabilidad técnica/legal de todos los puntos expresados aqui, pero estas son las propuestas existentes previa revisión.
+
+De haber cambios tras la revisión, estas debiesen ser informados ANTES de su rectificación final, pero después de que el grupo considere que es una propuesta deseable de ser instaurada.
+
+
 #Para mayor protección laboral
 
 1) Una aplicación de busqueda de trabajo que aplique la normativa ya vigente en el grupo programadores chile con sus respectivos criterios, además de un sistema de puntos para dar favoritismos a las empresas de contratación de informáticos que posean buenas prácticas
